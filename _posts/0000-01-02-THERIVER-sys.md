@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+THIS IS A REPLACED LINE
 THE FIRST ATTEMPT
 HOPE TO BE LUCKY IN THE NEAR FUTURE
 THANKS
